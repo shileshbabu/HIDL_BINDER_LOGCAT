@@ -1,1 +1,1 @@
-# HIDL_BINDER_LOGCAT
+# HIDL_BINDER_IPC_Server using logcat 
